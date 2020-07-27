@@ -1,0 +1,5 @@
+variable,count,mean,std,variable,count,mean,std,variable,mean
+retention_rate,217.0,86.09,8.38,retention_rate,80.0,87.95,6.15,retention_rate,80.0
+graduation_four,216.0,47.02,23.36,graduation_four,80.0,47.52,16.69,graduation_four,15.0
+graduation_six,217.0,68.51,17.24,graduation_six,80.0,71.19,12.66,graduation_six,47.0
+early_career,197.0,51014.21,6896.81,early_career,80.0,49748.75,4575.28,early_career,40700.0

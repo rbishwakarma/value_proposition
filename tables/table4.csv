@@ -1,0 +1,6 @@
+variable,count,mean,std,variable,count,mean,std,variable,mean
+SATtoACT_math_25,217.0,23.45,4.08,SATtoACT_math_25,80.0,23.4,2.78,SATtoACT_math_25,20.0
+ACT_compsite_25,203.0,23.85,3.97,ACT_compsite_25,75.0,23.61,2.49,ACT_compsite_25,20.0
+pell_grants,217.0,27.87,12.54,pell_grants,80.0,28.54,10.07,pell_grants,40.0
+stem,197.0,25.54,15.85,stem,80.0,23.84,9.67,stem,17.0
+par_median,217.0,108.81,31.81,par_median,80.0,102.41,17.27,par_median,73.9

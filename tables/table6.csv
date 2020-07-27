@@ -1,0 +1,6 @@
+variable,count,mean,std,variable,count,mean,std,variable,mean
+R1,217.0,0.53,0.5,R1,80.0,1.0,0.0,R1,1.0
+salary_instruction,217.0,10.4,2.35,salary_instruction,80.0,10.5,1.48,salary_instruction,8.909000396728516
+student_faculty_ratio,217.0,15.92,4.74,student_faculty_ratio,80.0,18.23,3.23,student_faculty_ratio,19.0
+ug_total,217.0,18983.69,11242.5,ug_total,80.0,28645.44,9447.15,ug_total,23846.0
+grad_total,217.0,7325.48,4830.59,grad_total,80.0,9549.44,3638.63,grad_total,8538.0

@@ -1,0 +1,7 @@
+variable,count,mean,std,variable,count,mean,std,variable,mean
+female,217.0,51.29,7.59,female,80.0,50.57,4.77,female,55.25455093383789
+white_percent,217.0,55.89,19.43,white_percent,80.0,56.75,18.07,white_percent,35.59087371826172
+hispanic_percent,217.0,11.01,11.82,hispanic_percent,80.0,11.98,10.71,hispanic_percent,44.628028869628906
+asian_percent,217.0,8.62,8.51,asian_percent,80.0,10.72,10.06,asian_percent,3.0529229640960693
+black_percent,217.0,9.4,13.67,black_percent,80.0,7.1,6.05,black_percent,2.5916295051574707
+american_indian_percent,217.0,0.55,1.53,american_indian_percent,80.0,0.4,0.81,american_indian_percent,6.143588066101074

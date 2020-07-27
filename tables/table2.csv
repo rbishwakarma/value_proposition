@@ -1,0 +1,8 @@
+variable,count,mean,std,variable,count,mean,std,variable,mean
+instruction_FTE,217.0,18.7,17.57,instruction_FTE,80.0,14.68,6.01,instruction_FTE,12.37600040435791
+academic_support_FTE,217.0,5.56,7.13,academic_support_FTE,80.0,4.43,2.4,academic_support_FTE,2.150000095367432
+student_service_FTE,217.0,2.9,2.59,student_service_FTE,80.0,1.93,0.97,student_service_FTE,1.253000020980835
+research_FTE,217.0,10.35,14.87,research_FTE,80.0,9.56,6.21,research_FTE,8.081999778747559
+institutional_support_FTE,217.0,5.35,5.5,institutional_support_FTE,80.0,3.35,1.48,institutional_support_FTE,2.8429999351501465
+public_service_FTE,217.0,2.06,2.85,public_service_FTE,80.0,3.27,3.91,public_service_FTE,16.042999267578125
+all_other_FTE,217.0,1.87,2.93,all_other_FTE,80.0,2.02,1.26,all_other_FTE,4.063000202178955
